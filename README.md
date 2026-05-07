@@ -1,23 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SAINNEY Steevenson | WDD130 </title>
-    </head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SAINNEY Steevenson| WDD 130</title>
+<meta name ="description" content ="SAINNEY Steevenson's BYU-Idaho WDD 130 course home page">
+<link rel ="stylesheet" href="css/style.css">
+</head>
 <body>
-    <header>
-     <nav>
-    <a href="#">home</a>
-    <a href="WWR/">Rafting site </a>
- </nav>
- </header>
-    <main>
-    <h1> SAINNEY Steevenson | WDD130 </h1>
-    <img src="https://media.licdn.com/dms/image/v2/D4E03AQHeYFu2RiA5jA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1707534895901?e=1770249600&v=beta&t=QMVQC-O6iPOskvHwPKZ5aWuYYrOGS2Rh8rvBNchd3t8" alt="my name is Steevenson Sainney" width="200" height="200">
-    <p>My name is Steevenson Sainney, I am a student at the BYU-Idaho, I am currently enrolled in the WDD130 course. I am a web developer and I love to create websites that are user-friendly and visually appealing.</p>
-    <p>© 2025 SAINNEY Steevenson, HAITI </p>
-    </main>
-      </footer>
+
+<header>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Rafting website</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>SAINNEY Steevenson and WDD 130</h1>
+    <img src="Images/Profile.jfif" alt="Hello my name is SAINNEY Steevenson " width="200">
+  <p> Hello! my name is SAINNEY Steevenson </p>
+   <p>
+      Hello! I'm from Haiti. I'm excited to be part of WDD 130 and learn about web design and development. 
+      I'm passionate about technology, design, and creating digital experiences that help people. In my free time, I enjoy reading, coding, and discovering new tools.
+  </p>
+  </main>
+  <footer>
+    <p>&copy; 2026 SAINNEY,  Port au prince HAITI </p>
+  </footer>
+
 </body>
 </html>
+
+
